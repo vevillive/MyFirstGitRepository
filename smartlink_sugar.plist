@@ -15,7 +15,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>https://github.com/vevillive/ipa/raw/master/smartlink_sugar.ipa</string>
+     <string>http://10.8.10.89:8080/download/byMongoId?id=436743178DBB425C91B2874D400AE602&mongoId=5df20f69bf93721a74c21c8c</string>
     </dict>
     <dict>
      <!--KEY 测试后建议缩短-->
@@ -25,7 +25,7 @@
      <true/>
      <key>url</key>
      <!-- http或者https链接的图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>https://raw.githubusercontent.com/vevillive/vevillive_repository/master/sugar.png</string>
+     <string>http://10.8.10.89:8080/download/icon?iconId=A8A0D6F027884969BE63C7F4E9FFEA0E</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -34,7 +34,7 @@
      <true/>
      <key>url</key>
      <!-- http或者https链接的小图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>https://raw.githubusercontent.com/vevillive/vevillive_repository/master/sugar.png</string>
+     <string>http://10.8.10.89:8080/download/icon?iconId=A8A0D6F027884969BE63C7F4E9FFEA0E</string>
     </dict>
    </array>
    <key>metadata</key>
