@@ -6,26 +6,23 @@
  <key>items</key>
  <array>
   <dict>
-   <!-- KEY 测试后建议缩短 ，目前都使用https-->
    <key>assets</key>
    <array>
     <dict>
-      <!-- KEY 测试后建议缩短 ，目前都使用https-->
      <key>kind</key>
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>http://10.8.10.89:8080/download/byMongoId?id=436743178DBB425C91B2874D400AE602&mongoId=5df20f69bf93721a74c21c8c</string>
+     <string>https://appstore.caih.com/download/byMongoId?id=A0EBB80A184C4B5680FBDDFD9932F8AC&mongoId=5dfe037f94b56b62f2db66c8</string>
     </dict>
     <dict>
-     <!--KEY 测试后建议缩短-->
      <key>kind</key>
      <string>full-size-image</string>
      <key>needs-shine</key>
      <true/>
      <key>url</key>
      <!-- http或者https链接的图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>http://10.8.10.89:8080/download/icon?iconId=A8A0D6F027884969BE63C7F4E9FFEA0E</string>
+     <string>https://appstore.caih.com/download/icon?iconId=18BEA270355D4E1DB08F8FBCDEEEDFF7</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -34,22 +31,22 @@
      <true/>
      <key>url</key>
      <!-- http或者https链接的小图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>http://10.8.10.89:8080/download/icon?iconId=A8A0D6F027884969BE63C7F4E9FFEA0E</string>
+     <string>https://appstore.caih.com/download/icon?iconId=18BEA270355D4E1DB08F8FBCDEEEDFF7</string>
     </dict>
    </array>
    <key>metadata</key>
    <dict>
-    <key>bundle-identifier</key>
     <!-- BundleID，就是新建app时的包名 -->
-    <string>com.caih.cloud.office.smartlink.fsugar.oa.pgy</string>
+    <key>bundle-identifier</key>
+    <string>com.caih.cloud.office.smartlink.gxqtmonitor.pgy</string>
+    <!-- 版本号 -->
     <key>bundle-version</key>
-    <!-- 版本号-必变 -->
-    <string>2.0.7</string>
+    <string>1.1.7</string>
     <key>kind</key>
     <string>software</string>
+    <!-- 安装app时的提示信息 -->
     <key>title</key>
-    <!-- 安装app时的提示信息\拼写简单 -->
-    <string>smartlink_sugar App install…</string>
+    <string>smartlink_gxzj App install…</string>
    </dict>
   </dict>
  </array>
